@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RssSources>
+
+
+  <Rss Url="http://www.arunes.com/syndication.axd">
+    <Rules>
+      <Rule Action="block" Field="title" Operator="cn" What="manisa" />
+
+    </Rules>
+  </Rss>
+
+  <Rss Url="http://rss.feedsportal.com/c/32727/f/510885/index.rss">
+    <Rules>
+      <Rule Action="block" Field="*" Operator="cn" What="manisa" />
+
+    </Rules>
+  </Rss>
+
+
+</RssSources>

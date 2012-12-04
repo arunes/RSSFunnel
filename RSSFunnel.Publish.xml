@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Projects\TestArea\RSSFunnel\_Publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/RSSFunnel.dll" publishTime="02/15/2012 14:18:12" />
+    <file relUrl="bin/RSSFunnel.pdb" publishTime="02/15/2012 14:18:12" />
+    <file relUrl="App_Data/data.xml" publishTime="02/15/2012 13:56:24" />
+    <file relUrl="Web.config" publishTime="02/15/2012 14:18:41" />
+    <file relUrl="default.aspx" publishTime="02/15/2012 13:28:11" />
+  </publishProfile>
+</publishData>
